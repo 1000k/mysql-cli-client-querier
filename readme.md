@@ -88,12 +88,14 @@ With *-r table*.
 
     # php query.php -r table "SELECT id, name FROM foo"
     +----+---------------+
-    | ID |      NAME     |
+    | ID |     NAME      |
     +----+---------------+
     | 1  | Miles Davis   |
     | 2  | John Coltrane |
     +----+---------------+
     total count: 2
+
+This format is powered by [PHP: Array to Text Table Generation Class — Gist](https://gist.github.com/31477) by [Tony Landis](http://tonylandis.com/). Many thanks.
 
 
 License

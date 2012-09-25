@@ -94,6 +94,8 @@ DSNの書き方がわからない場合、下記のサイトを参考にして�
     +----+---------------+
     total count: 2
 
+このフォーマットには [Tony Landis](http://tonylandis.com/)氏の [PHP: Array to Text Table Generation Class — Gist](https://gist.github.com/31477) を利用させていただきました。ありがとうございます。
+
 
 ライセンス
 ==========
