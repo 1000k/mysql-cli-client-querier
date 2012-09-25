@@ -1,0 +1,4 @@
+<?php
+define('DB_DSN', 'mysql:dbname=uso;host=localhost;port=80');
+define('DB_USER', 'foo');
+define('DB_PASSWORD', 'bar');
